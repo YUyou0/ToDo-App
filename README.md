@@ -1,6 +1,6 @@
 # 📝 ToDo App
 
-A simple and interactive To-Do application. 
+A simple and interactive To-Do application. <br>
 This project helps users efficiently manage their daily tasks.
 
 ## 🌟 Features
