@@ -25,5 +25,5 @@ This project helps users efficiently manage their daily tasks.
 
 ### 📽️ Video Demonstration
 
-<img src="https://github.com/user-attachments/assets/c68cb7c1-e86b-4e22-98ef-f90e4be1b8c0" alt="Demo Video" width="800" />
+<img src="https://github.com/user-attachments/assets/742bf6f2-3a6f-4007-9df2-eafb5271f39c" alt="Demo Video" width="1000" />
 
