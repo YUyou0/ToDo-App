@@ -13,7 +13,6 @@ This project helps users efficiently manage their daily tasks.
 - Real-time progress tracking with a progress bar.
 - Confetti animation when all tasks are completed.
 
----
 ## 🛠️ Technologies Used
 1. HTML
 2. CSS
@@ -21,9 +20,8 @@ This project helps users efficiently manage their daily tasks.
 4. Local Storage
 5. Canvas-Confetti (Library)
    
----
 
-### 📽️ Video Demonstration
+## 📽️ Video Demonstration
 
 <img src="https://github.com/user-attachments/assets/742bf6f2-3a6f-4007-9df2-eafb5271f39c" alt="Demo Video" width="1000" />
 
